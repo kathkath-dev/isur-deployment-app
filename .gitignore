@@ -1,4 +1,5 @@
 .env
-*.log
+*.pem
+*.key
 .vscode/
-node_modules/
+*.log
